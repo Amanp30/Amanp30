@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**Amanp30/Amanp30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **Tradebook**: [Frontend](https://github.com/Amanp30/tradebook-frontend-) | [Backend](https://github.com/Amanp30/Tradebook-Api)
 
-Here are some ideas to get you started:
+- **Hey Birthday**: [Frontend](https://github.com/Amanp30/Hey-Birthday-frontend) | [Backend](https://github.com/Amanp30/Hey-Birthday-Backend)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Portfolio using MongoDB + EJS**: [GitHub](https://github.com/Amanp30/Portfolio-using-EJS---MongoDB), [Website](https://portfolio-using-ejs-mongodb.onrender.com/)
+
+- **House Help Service Booking**: [GitHub](https://github.com/Amanp30/House-help), [Website](https://house-help-jl4w.onrender.com/)
+
+- **Hospital Landing Page**: [GitHub](https://github.com/Amanp30/hospital-landing-page), [Website](https://medicare-page.vercel.app/)
+
+- **Photoviewer**: [GitHub](https://github.com/Amanp30/photoviewer)
+
+- **InvestorJS**: [GitHub](https://github.com/Amanp30/investorjs) | [Website](https://investorjs.vercel.app/docs)
+
+
+### Profiles
+
+- [Codepen](https://codepen.io/Amanp30/)
