@@ -15,6 +15,9 @@
 - **InvestorJS**: [GitHub](https://github.com/Amanp30/investorjs) | [Website](https://investorjs.vercel.app/docs)
 
 
+### Node Modules
+- **FWC**: [GitHub](https://github.com/Amanp30/fwc-node) 
+
 ### Profiles
 
 - [Codepen](https://codepen.io/Amanp30/)
