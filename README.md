@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- **ap-breadcrumb**: [Github](https://github.com/Amanp30/ap-breadcrumb)
+- **ap-ssg**: [Github](https://github.com/Amanp30/ap-ssg) | [npm](https://www.npmjs.com/package/ap-ssg)
 
 - **Tradebook**: [Frontend](https://github.com/Amanp30/tradebook-frontend-) | [Backend](https://github.com/Amanp30/Tradebook-Api)
 
