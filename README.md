@@ -1,32 +1,45 @@
-# Aman Pareek (@amanp30)
+<h1 align="center">Hi, I'm Aman Pareek 👋</h1>
 
-🚀 **Full-Stack Web Developer** | **Node.js Specialist** | Creator of [AP-SSG](https://www.npmjs.com/package/ap-ssg)  
-📈 Passionate about clean code, market insights, and building fast, scalable solutions that solve real problems.
-
----
-
-## 🌐 Portfolio  
-🔗 [Explore My Projects](https://amanpareek.in/projects.html)
+<p align="center">
+  Self-taught full-stack JavaScript developer from Rajasthan, India.<br/>
+  I build practical products and publish small, focused developer tools.
+</p>
 
 ---
 
-## 🛠️ Core Skills & Technologies
+## 🚀 What I do
 
-- **Backend**: Node.js, Express.js, MongoDB  
-- **Frontend**: React, Redux, JavaScript (ES6+)  
-- **DevOps**: Git, GitHub Actions  
-- **Specialties**: Performance Optimization, SEO (incl. JSON-LD), PWA, REST API Design  
-- **Chrome Extensions**:  
-  - [`pkg-stats`](https://github.com/Amanp30/pkg-stats): Instantly view npm stats from any GitHub repo.  
-  - [`og-viewer`](https://github.com/Amanp30/og-viewer): Preview Open Graph meta tags of any page directly in your browser.
+- 🧱 Build full-stack web apps with clean, modular architecture
+- 📦 Publish developer tools and libraries on npm
 
----
+## 🛠️ Tech stack
 
-## 🧠 Developer Philosophy  
-> *“Work independently. Build with purpose. Keep it clean. Ship it fast.”*
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![EJS](https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
+## 📦 Open source
 
-## 📬 Connect With Me  
-📨 [Contact Page](https://amanpareek.in/contact.html)  
-🌐 [amanpareek.in](https://amanpareek.in)
+| Project | What it does | Links |
+| --- | --- | --- |
+| **depkit** | CLI to save and reuse named dependency presets | [npm](https://www.npmjs.com/package/@amanpareek/depkit) |
+| **easy-back-to-top** | Scroll-to-top button with a progress indicator<br/>[![](https://data.jsdelivr.com/v1/package/npm/easy-back-to-top/badge)](https://www.jsdelivr.com/package/npm/easy-back-to-top) | [jsDelivr](https://www.jsdelivr.com/package/npm/easy-back-to-top) |
+| **og-viewer** | Chrome extension to preview a page's Open Graph image | [GitHub](https://github.com/Amanp30/og-viewer) |
+| **ap-sitemap** | Sitemap generator | [npm](https://www.npmjs.com/package/ap-sitemap) |
+| **ap-ssg** | Lightweight static site generator | [npm](https://www.npmjs.com/package/ap-ssg) |
+| **env-config-gen** | Generate environment config files fast | [npm](https://www.npmjs.com/package/env-config-gen) |
+
+## 🤝 Let's connect
+
+- 📍 Malpura / Jaipur, Rajasthan, India
+- 💬 Happy to talk about Node.js, product ideas, or freelance projects
+- 📫 Email: [amanpareek300@gmail.com](mailto:amanpareek300@gmail.com)
+- 🔗 LinkedIn: [linkedin.com/in/aman-pareek](https://www.linkedin.com/in/aman-pareek)
+
+<p align="center"><i>Building in public, one small project at a time.</i></p>
