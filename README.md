@@ -13,11 +13,6 @@
 
 ---
 
-## 🚀 What I do
-
-- 🧱 Build full-stack web apps with clean, modular architecture
-- 📦 Publish small, focused developer tools and libraries on npm
-
 ## 🛠️ Tech stack
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -34,7 +29,7 @@
 
 | Project | What it does | Stats | Link |
 | --- | --- | --- | --- |
-| **paymeqr** | Dynamic, configurable UPI QR codes and payment links, no backend needed. Works in the browser and Node | ![](https://img.shields.io/npm/dm/paymeqr?label=downloads) | [npm](https://www.npmjs.com/package/paymeqr) |
+| **paymeqr** | Dynamic, configurable UPI QR codes and payment links, no backend needed. Works in the browser and Node | ![](https://img.shields.io/npm/dm/paymeqr?label=downloads)<br/>![](https://data.jsdelivr.com/v1/package/npm/paymeqr/badge) | [npm](https://www.npmjs.com/package/paymeqr) · [jsDelivr](https://www.jsdelivr.com/package/npm/paymeqr) |
 | **depkit** | CLI to save and reuse named dependency presets | ![](https://img.shields.io/npm/dm/@amanpareek/depkit?label=downloads) | [npm](https://www.npmjs.com/package/@amanpareek/depkit) |
 | **ap-ssg** | Lightweight static site generator | ![](https://img.shields.io/npm/dm/ap-ssg?label=downloads) | [npm](https://www.npmjs.com/package/ap-ssg) |
 | **ap-sitemap** | Sitemap generator | ![](https://img.shields.io/npm/dm/ap-sitemap?label=downloads) | [npm](https://www.npmjs.com/package/ap-sitemap) |
